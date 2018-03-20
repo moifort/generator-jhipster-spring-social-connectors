@@ -1,6 +1,6 @@
 # generator-jhipster-spring-social-connectors
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Add Material design to your JHipster application
+> Add Spring Social Connectors to your JHipster application
 
 ## Usage
 
@@ -23,13 +23,6 @@ Then run the module on a JHipster generated application:
 ```bash
 yo jhipster-spring-social-connectors
 ```
-
-## Bootstrap Material Design  
-
-Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new Google Material Design in your favorite front-end framework.
-
-- Github: https://github.com/FezVrasta/spring-social-connectors
-- Website: http://fezvrasta.github.io/spring-social-connectors/
 
 
 ## License
