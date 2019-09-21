@@ -1,3 +1,5 @@
+**DEPRECATED this repository is no longer maintained**
+
 # generator-jhipster-spring-social-connectors
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Add Spring Social Connectors to your JHipster application
